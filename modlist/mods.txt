@@ -1,0 +1,9 @@
+# Формат: название | URL | SHA256 (опционально)
+# Пример для 1.21.1 NeoForge
+
+# Core моды
+
+# Tech моды
+oritech | https://cdn.modrinth.com/data/4sYI62kA/versions/K6Ux9VOd/oritech-neoforge-1.21.1-1.0.1.jar
+
+# Utility
